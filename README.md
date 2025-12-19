@@ -120,12 +120,17 @@ You can embed or reference the following sample video to demonstrate similar mul
 
 ### Embedded (for GitHub / Markdown viewers)
 
+## Video Reference
 
-[![Youtube link after training: Reinforcement Learning](uH80_QW2yHs)](www.youtube.com)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=uH80_QW2yHs">
+    <img src="https://img.youtube.com/vi/uH80_QW2yHs/0.jpg" alt="YouTube video thumbnail">
+  </a>
+</p>
 
-<iframe width="560" height="315"
-src="https://youtu.be/uH80_QW2yHs"
-frameborder="0" allowfullscreen></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=uH80_QW2yHs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uH80_QW2yHs" frameborder="0" allowfullscreen></iframe>
+
 
 
 ## How to Run
