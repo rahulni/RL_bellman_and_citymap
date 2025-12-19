@@ -119,13 +119,11 @@ You can embed or reference the following sample video to demonstrate similar mul
 *(This is a representative RL navigation demo; replace with your own run if desired.)*
 
 ### Embedded (for GitHub / Markdown viewers)
-```html
+
 <iframe width="560" height="315"
 src="https://youtu.be/uH80_QW2yHs"
 frameborder="0" allowfullscreen></iframe>
-```
 
----
 
 ## How to Run
 
