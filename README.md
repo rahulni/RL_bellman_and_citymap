@@ -114,14 +114,14 @@ This deeper network improves:
 You can embed or reference the following sample video to demonstrate similar multi-target RL navigation:
 
 🔗 **YouTube (Sample Demo)**  
-https://www.youtube.com/watch?v=2pWv7GOvuf0
+[https://www.youtube.com/watch?v=2pWv7GOvuf0](https://youtu.be/uH80_QW2yHs)
 
 *(This is a representative RL navigation demo; replace with your own run if desired.)*
 
 ### Embedded (for GitHub / Markdown viewers)
 ```html
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/2pWv7GOvuf0"
+src="https://youtu.be/uH80_QW2yHs"
 frameborder="0" allowfullscreen></iframe>
 ```
 
