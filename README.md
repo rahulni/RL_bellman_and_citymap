@@ -181,9 +181,3 @@ This project is intended for **educational and instructional use**.
 You are free to modify, extend, and experiment.
 
 ---
-
-If you want, I can also:
-- Generate a **city map image**
-- Add a **training report section**
-- Convert this into a **graded assignment PDF**
-- Add **policy visualization or heatmaps**
