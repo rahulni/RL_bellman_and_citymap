@@ -1,5 +1,13 @@
 # Autonomous City Navigation with Deep Q-Network (Multi‑Target RL)
 
+## Video Reference
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=uH80_QW2yHs">
+    <img src="https://img.youtube.com/vi/uH80_QW2yHs/0.jpg" alt="YouTube video thumbnail">
+  </a>
+</p>
+
 This project extends the earlier **GridWorld / Bellman-based RL work** into a **realistic city-scale navigation problem** using **Deep Q-Learning (DQN)**, physics-based motion, and a visual simulation.
 
 An autonomous car (agent) learns to navigate a **custom city map**, sequentially visiting **three targets (A1 → A2 → A3)** while avoiding obstacles and learning optimal control policies.
@@ -109,27 +117,9 @@ This deeper network improves:
 
 ---
 
-## Sample Demonstration Video
-
-You can embed or reference the following sample video to demonstrate similar multi-target RL navigation:
-
 🔗 **YouTube (Sample Demo)**  
 [https://www.youtube.com/watch?v=2pWv7GOvuf0](https://youtu.be/uH80_QW2yHs)
 
-*(This is a representative RL navigation demo; replace with your own run if desired.)*
-
-### Embedded (for GitHub / Markdown viewers)
-
-## Video Reference
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=uH80_QW2yHs">
-    <img src="https://img.youtube.com/vi/uH80_QW2yHs/0.jpg" alt="YouTube video thumbnail">
-  </a>
-</p>
-
-[Watch on YouTube](https://www.youtube.com/watch?v=uH80_QW2yHs)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uH80_QW2yHs" frameborder="0" allowfullscreen></iframe>
 
 
 
