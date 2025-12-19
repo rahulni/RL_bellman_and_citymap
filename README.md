@@ -120,6 +120,9 @@ You can embed or reference the following sample video to demonstrate similar mul
 
 ### Embedded (for GitHub / Markdown viewers)
 
+
+[![Youtube link after training: Reinforcement Learning](uH80_QW2yHs)](www.youtube.com)
+
 <iframe width="560" height="315"
 src="https://youtu.be/uH80_QW2yHs"
 frameborder="0" allowfullscreen></iframe>
